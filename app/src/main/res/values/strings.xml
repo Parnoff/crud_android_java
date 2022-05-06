@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MonitoramentoPrenatal</string>
+    <string name="tela_login">Tela Login</string>
+    <string name="login">Login</string>
+    <string name="senha">Senha</string>
+    <string name="logar">Logar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="documenta_o_pessoal">DOCUMENTAÇÃO PESSOAL</string>
+    <string name="nome">Nome:</string>
+    <string name="data_de_nascimento">Data de Nascimento:</string>
+    <string name="cns">CNS:</string>
+    <string name="rg">RG:</string>
+    <string name="cpf">CPF:</string>
+    <string name="endere_o">ENDEREÇO</string>
+    <string name="logradouro">Logradouro:</string>
+    <string name="n">N°</string>
+    <string name="complemento">Complemento:</string>
+    <string name="bairro">Bairro:</string>
+    <string name="contato">CONTATO</string>
+    <string name="telefone_1">Telefone 1:</string>
+    <string name="telefone_2">Telefone 2:</string>
+    <string name="nome_da_m_e">Nome da Mãe:</string>
+    <string name="nome_do_pai">Nome do Pai:</string>
+    <string name="salvar">Salvar</string>
+</resources>
